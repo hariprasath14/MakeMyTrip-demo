@@ -2585,7 +2585,14 @@ span.ui-datepicker-year {
     background-size: 31px;
     background-position: left;
 }
-
+.copyright p {
+    margin-bottom: 0px;
+    font-size: 0.73rem;
+    font-weight: bold;
+}
+.copyright p span {
+    font-weight: bold;
+}
 
 }
 

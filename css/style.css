@@ -2703,3 +2703,10 @@ p.chooseclass2, p.chooseclass3{
     margin: 10px;
 }
 }
+
+
+@media only screen and (max-width: 422px) {
+.offers h1 {
+    margin-bottom: 0px;
+}
+}

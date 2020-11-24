@@ -670,7 +670,7 @@ transform: rotate(-180deg);
 @media only screen and (min-width: 1200px) {
 .discount {
     -ms-flex: 0 0 25%;
-    flex: 0 0 21%;
+    flex: 0 0 23%;
     max-width: 25%;
     height: 30px;
     border-right: 1px solid #d8d8d8;
@@ -721,7 +721,7 @@ margin-left: 3px;
 	background-image: linear-gradient(to right, #51b0fe, #0c61f4);
 	position: absolute;
 	top: 48px;
-	left: 226px;
+	left: 220px;
 	cursor: pointer;
 }
 .triptype{

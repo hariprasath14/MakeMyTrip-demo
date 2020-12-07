@@ -2386,6 +2386,9 @@ border-right: 0px;
 .fromdatediv, .fromdatedivdummy, .todatediv {
     padding: 3px 5px 3px 15px;
 }
+	.fromdatedivdummy{
+	padding: 3px 5px 2px 15px;
+	}
 .TRAVELLERCLASS {
     padding: 3px 5px 2px 15px;
     cursor: pointer;

@@ -599,7 +599,7 @@ span.datenum1, span.datenum2, span.TRAVELLERNUM{
 }
 .fromdatediv p.dayname1, .fromdatedivdummy p.dayname1, .todatediv p.dayname2, .TRAVELLERCLASS p.CLASSTYPE {
     margin: 0px;
-    font-size: 0.9rem;
+    font-size: 0.89rem;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
